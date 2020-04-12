@@ -1,0 +1,4 @@
+﻿  maincpp.cpp
+d:\ludo\project2-bck\project2\maincpp.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\ludo\project2-bck\project2\maincpp.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> D:\LUDO\Project2-bck\Debug\Project2.exe
